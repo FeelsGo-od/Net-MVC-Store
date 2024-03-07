@@ -1,4 +1,4 @@
-#NET.Core 8 MVC + Bootstrap + RestSharp | Printful API
+# .NET Core 8 MVC + Bootstrap + RestSharp | Printful API
 
 This project won't work on downloading since I am using Printful's (Print-on-demand website) API with a key I have stored only on my computer. But you can watch the video of how it's working and examine the code.
 
