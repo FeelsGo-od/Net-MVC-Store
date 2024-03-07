@@ -1,0 +1,86 @@
+@model RestSharpAPI.Models.ProductResult;
+@using RestSharpAPI.Utilities
+
+@functions
+{
+    private static string convertColor(string color)
+    {
+        return ColorConverter.ConvertColorNameToHex(color);
+    }
+}
+
+<div class="py-5">
+    <div class="container px-4 px-lg-5 my-5">
+        <div class="row gx-4 gx-lg-5 align-items-center">
+            @if (Model != null && Model.SyncVariants != null)
+            {
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="tab-content">
+                            @foreach (var syncVariant in Model.SyncVariants)
+                            {
+                                <div class="tab-pane @(syncVariant == Model.SyncVariants[0] ? "show active" : "")" id="variant-image-@syncVariant.Id">
+                                    <img src="@syncVariant.Files[1].PreviewUrl" alt="@syncVariant.Name" class="card-img-top mb-5 mb-md-0">
+                                </div>
+                            }
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="tab-content">
+                            @foreach (var syncVariant in Model.SyncVariants)
+                            {
+                                <div class="tab-pane @(syncVariant == Model.SyncVariants[0] ? "show active" : "")" id="variant-info-@syncVariant.Id">
+                                    <h1 class="display-5 fw-bolder">@syncVariant.Name</h1>
+                                    <div class="fs-5 mb-3">
+                                        <span>$@syncVariant.RetailPrice</span>
+                                        @if(syncVariant.AvailabilityStatus == "active")
+                                        {
+                                            <span class="text-success">Available</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="text-danger">Not Available</span>
+                                        }
+                                    </div>
+                                    <form class="d-flex" asp-controller="Cart" asp-action="AddToCart" method="post">
+                                        <input type="hidden" name="variantId" value="@syncVariant.VariantId" />
+                                        <input type="hidden" name="name" value="@syncVariant.Name" />
+                                        <input type="hidden" name="retailPrice" value="@syncVariant.RetailPrice" />
+                                        <input type="number" name="quantity" value="1" min="1" class="form-control text-center me-3" style="max-width: 3rem" />
+                                        <button type="submit" class="btn btn-outline-dark flex-shrink-0">Add to Cart</button>
+                                    </form>
+                                </div>
+                            }
+                        </div>
+                        <div class="list-group d-flex flex-row mb-4">
+                            @foreach (var syncVariant in Model.SyncVariants)
+                            {
+                                <a class="list-group-item list-group-item-action border-0 me-1 w-auto p-0 mt-3 @(syncVariant == Model.SyncVariants[0] ? "active" : "") bg-transparent" id="variant-tab-@syncVariant.Id" data-bs-toggle="list" href="#variant-image-@syncVariant.Id" onclick="updateContent('@syncVariant.Id')">
+                                    <div class="border border-dark rounded-circle" style="width: 45px; height: 45px; background-color: @(convertColor(syncVariant.Color))"></div>
+                                </a>
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+            else
+            {
+                <p>No data available.</p>
+            }
+        </div>
+    </div>
+</div>
+
+<script>
+    function updateContent(variantId) {
+        // Hide all tab panes
+        var tabContents = document.querySelectorAll('.tab-pane');
+        tabContents.forEach(function(tabContent) {
+            tabContent.classList.remove('show', 'active');
+        });
+
+        // Show the image and info tab panes corresponding to the clicked tab
+        document.getElementById('variant-image-' + variantId).classList.add('show', 'active');
+        document.getElementById('variant-info-' + variantId).classList.add('show', 'active');
+    }
+</script>

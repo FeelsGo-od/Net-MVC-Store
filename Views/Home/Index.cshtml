@@ -1,0 +1,27 @@
+﻿@model List<Products>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="py-5">
+    <div class="container">
+        <div class="row">
+            @if (ViewBag.Products != null)
+            {
+                foreach (var product in ViewBag.Products)
+                {
+                    // Display product properties, e.g., product.Name, product.ThumbnailUrl, etc.
+                    <div class="col-md-4">
+                        <div class="card mb-4 box-shadow">
+                            <img src="@(product.ThumbnailUrl)" class="card-img-top img-fluid" alt="@product.Name"/>
+                            <div class="card-body">
+                                <p class="card-text">@product.Name</p>
+                                @Html.ActionLink("Details", "Details", "Product", new { id = product.Id }, new { @class = "btn btn-sm btn-outline-secondary" })
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>

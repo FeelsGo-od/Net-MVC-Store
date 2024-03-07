@@ -1,0 +1,69 @@
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/bin/Debug/net8.0/appsettings.json
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/bin/Debug/net8.0/RestSharpAPI.staticwebassets.runtime.json
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/bin/Debug/net8.0/RestSharpAPI
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/bin/Debug/net8.0/RestSharpAPI.deps.json
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/bin/Debug/net8.0/RestSharpAPI.runtimeconfig.json
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/bin/Debug/net8.0/RestSharpAPI.dll
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/bin/Debug/net8.0/RestSharpAPI.pdb
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.AssemblyInfoInputs.cache
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.AssemblyInfo.cs
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.csproj.CoreCompileInputs.cache
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.RazorAssemblyInfo.cache
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.RazorAssemblyInfo.cs
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/staticwebassets/msbuild.RestSharpAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.RestSharpAPI.props
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.RestSharpAPI.props
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.RestSharpAPI.props
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/scopedcss/bundle/RestSharpAPI.styles.css
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/scopedcss/projectbundle/RestSharpAPI.bundle.scp.css
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.dll
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/refint/RestSharpAPI.dll
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.pdb
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.genruntimeconfig.cache
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/ref/RestSharpAPI.dll
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/bin/Debug/net8.0/RestSharp.dll
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.csproj.AssemblyReference.cache
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.csproj.CopyComplete
+/Users/nocomac/Documents/MyProjects/TryOnClothes/RestAPI_Printful/Preparation/RestSharpAPI/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/bin/Debug/net8.0/appsettings.json
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/bin/Debug/net8.0/RestSharpAPI.staticwebassets.runtime.json
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/bin/Debug/net8.0/RestSharpAPI
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/bin/Debug/net8.0/RestSharpAPI.deps.json
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/bin/Debug/net8.0/RestSharpAPI.runtimeconfig.json
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/bin/Debug/net8.0/RestSharpAPI.dll
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/bin/Debug/net8.0/RestSharpAPI.pdb
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/bin/Debug/net8.0/RestSharp.dll
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.csproj.AssemblyReference.cache
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.AssemblyInfoInputs.cache
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.AssemblyInfo.cs
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.csproj.CoreCompileInputs.cache
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.RazorAssemblyInfo.cache
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.RazorAssemblyInfo.cs
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/staticwebassets/msbuild.RestSharpAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.RestSharpAPI.props
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.RestSharpAPI.props
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.RestSharpAPI.props
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/scopedcss/bundle/RestSharpAPI.styles.css
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/scopedcss/projectbundle/RestSharpAPI.bundle.scp.css
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.csproj.CopyComplete
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.dll
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/refint/RestSharpAPI.dll
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.pdb
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/RestSharpAPI.genruntimeconfig.cache
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/obj/Debug/net8.0/ref/RestSharpAPI.dll
+/Users/nocomac/Documents/Current Tech Projects/TryOnClothes/main/RestSharpAPI/bin/Debug/net8.0/secrets.json
